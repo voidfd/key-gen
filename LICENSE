@@ -1,24 +1,236 @@
-This is free and unencumbered software released into the public domain.
+VOIDED VERBATIM SOURCE DISTRIBUTION LICENSE
+VVSDL 1.0
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2026 Voided (@voidfd)
+GitHub: https://github.com/voidfd
+All rights reserved except for the limited permissions expressly granted below.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+IMPORTANT NOTICE
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+This software and its source code are SOURCE-AVAILABLE, NOT OPEN SOURCE.
+Availability in a public repository does not grant permission to modify,
+rebrand, relicence, reuse, incorporate, execute, commercialize, or create
+works based on this software.
 
-For more information, please refer to <https://unlicense.org>
+The only permissions granted by this License are to view the Original Work,
+download an exact copy of the Original Work, and redistribute an exact,
+complete, unmodified copy of the Original Work under this same License.
+
+1. DEFINITIONS
+
+1.1. "Author" means Voided, also known by the GitHub username @voidfd.
+
+1.2. "Original Work" means the complete software project, source code,
+documentation, configuration, assets, notices, files, directory structure,
+release artifacts, and metadata first published or expressly designated by
+the Author in an official repository or official release.
+
+1.3. "Official Repository" means a repository published by the Author through
+an account controlled by @voidfd, including https://github.com/voidfd, unless
+the Author expressly identifies another official location in writing.
+
+1.4. "Verbatim Copy" means an exact, complete copy of the Original Work whose file
+contents are byte-for-byte identical to the Original Work. A Verbatim Copy must preserve all files,
+file names, file contents, copyright notices, attribution, license text,
+documentation, credits, authorship information, and repository notices. It
+must not add, remove, alter, rename, translate, reformat, minify, expand,
+compile, decompile, encrypt, decrypt, obfuscate, package, unpack, or otherwise
+change any part of the Original Work.
+
+1.5. "Modified Work" means any work that is not a Verbatim Copy. A Modified
+Work includes, without limitation:
+
+(a) changing, deleting, adding, renaming, moving, translating, formatting, or
+    reorganizing any file, line, comment, dependency, asset, notice, or
+    documentation;
+
+(b) fixing bugs, adding features, removing features, changing behavior,
+    changing user-interface text, changing configuration, changing branding,
+    or adapting the Original Work to another platform or environment;
+
+(c) compiling, transpiling, minifying, bundling, packaging, containerizing,
+    obfuscating, encrypting, decompiling, disassembling, reverse engineering,
+    or otherwise transforming the Original Work for distribution;
+
+(d) copying any substantial part of the Original Work into another project,
+    repository, product, service, library, application, website, model,
+    dataset, or work; or
+
+(e) publishing the Original Work under another project name, repository name,
+    author name, organization, identity, license, or ownership claim.
+
+1.6. "Distribute" means to publish, upload, host, mirror, fork, transmit,
+share, provide, sell, sublicense, make available, or otherwise provide a copy
+to any other person or entity, whether publicly or privately and whether for
+free or for payment.
+
+2. LIMITED PERMISSION TO VIEW AND DOWNLOAD
+
+Subject to full compliance with this License, the Author grants you a limited,
+revocable, non-exclusive, non-transferable, non-sublicensable permission to:
+
+(a) view the Original Work; and
+
+(b) download and retain a Verbatim Copy of the Original Work for personal
+    reference, archival, educational review, or evaluation.
+
+No other right is granted by implication, estoppel, exhaustion, or otherwise.
+In particular, this License does not grant permission to use, execute, deploy,
+modify, adapt, distribute a Modified Work, create derivative works, or use any
+part of the Original Work in another project.
+
+3. LIMITED PERMISSION TO REDISTRIBUTE VERBATIM COPIES
+
+You may Distribute a Verbatim Copy only if every condition below is satisfied:
+
+(a) The distributed copy is complete and unmodified. It must be a Verbatim
+    Copy as defined in Section 1.4.
+
+(b) The distribution includes this License in its complete, unmodified form,
+    under the file name "LICENSE" where reasonably practical.
+
+(c) The distribution preserves all copyright notices, author credits,
+    repository links, license notices, documentation, and attribution
+    included in the Original Work.
+
+(d) The distribution clearly identifies Voided (@voidfd) as the Original
+    Author and identifies the Official Repository as the original source.
+
+(e) The distribution is made only under this exact same VVSDL 1.0 License.
+    You may not replace it, supplement it with conflicting terms, sublicense
+    it, relicence it, or represent that another license governs the work.
+
+(f) The distribution does not state or imply that you authored, maintain,
+    endorse, sponsor, own, support, or are affiliated with the Original Work
+    or the Author.
+
+(g) The distribution does not charge a fee, request payment, require a
+    subscription, place the work behind a paywall, monetize access, bundle the
+    work with a paid product or service, or otherwise seek commercial benefit
+    from the Original Work. A reasonable charge limited strictly to the
+    physical cost of transferring a Verbatim Copy on physical media is allowed.
+
+(h) The distribution does not use the Author's name, GitHub username, profile,
+    logo, image, or identity to imply endorsement or affiliation.
+
+4. NO MODIFICATIONS AND NO DERIVATIVE WORKS
+
+You are not granted permission to create, publish, distribute, host, upload,
+share, sell, display, execute, deploy, or otherwise use any Modified Work.
+
+Without limiting the preceding paragraph, you may not:
+
+(a) alter the code, comments, documentation, configuration, user interface,
+    assets, project structure, dependencies, build files, or license;
+
+(b) remove, hide, replace, or alter authorship, copyright, attribution,
+    repository, license, or credit information;
+
+(c) rename or rebrand the Original Work, its repository, releases, packages,
+    binaries, services, or documentation;
+
+(d) publish a fork, mirror, or copy that differs in any way from the Original
+    Work or that does not include this exact License;
+
+(e) use any portion of the Original Work in another work, even if the copied
+    portion is edited, rewritten, translated, rearranged, combined, or
+    partially concealed;
+
+(f) claim that a Modified Work is "inspired by," "based on," "derived from,"
+    "compatible with," or otherwise connected to the Original Work without
+    the Author's prior written permission; or
+
+(g) circumvent, remove, or disable any technical, legal, attribution, license,
+    access-control, or authorship notice included by the Author.
+
+5. NO COMMERCIAL USE
+
+No permission is granted to sell, license, rent, lease, host for payment,
+monetize, use in advertising, use in a paid service, use in a commercial
+product, use for fundraising, use to train or improve a commercial system, or
+otherwise exploit the Original Work for direct or indirect commercial benefit.
+
+Any commercial, organizational, educational, research, personal, production,
+or other use beyond the limited viewing, downloading, and verbatim
+redistribution permissions in this License requires the Author's prior written
+permission.
+
+6. NO TRADEMARK OR IDENTITY RIGHTS
+
+This License grants no right to use the name "Voided," the username "@voidfd,"
+the Author's logos, marks, avatars, profile identity, project names, or other
+branding, except solely as necessary to preserve truthful, unchanged authorship
+and attribution in a permitted Verbatim Copy.
+
+7. NO PATENT, TRADE SECRET, OR OTHER IMPLIED RIGHTS
+
+No patent license, trademark license, trade-secret license, right of publicity,
+or other intellectual-property right is granted by this License. All rights not
+expressly granted are reserved by the Author.
+
+8. CONTRIBUTIONS, SUGGESTIONS, AND FEEDBACK
+
+Do not submit patches, pull requests, modifications, translations, derivative
+works, or contributions unless the Author has first requested or accepted them
+in writing. Sending feedback does not grant you any right in the Original Work,
+and does not require the Author to use, credit, compensate, or respond to that
+feedback.
+
+9. TERMINATION
+
+The permissions granted by this License terminate automatically and immediately
+if you violate any term of this License. Upon termination, you must immediately
+cease all use and distribution of the Original Work, remove all copies under
+your control from public locations, and destroy or return copies if requested
+by the Author, to the extent permitted by applicable law.
+
+Termination does not limit any other rights or remedies available to the
+Author, including claims for injunctive relief, damages, takedown requests, or
+other remedies under applicable law.
+
+10. TAKEDOWN AND ENFORCEMENT
+
+The Author may request removal of any unauthorized copy, Modified Work,
+misleading attribution, relicensed copy, rebranded copy, or other distribution
+that violates this License. Recipients agree that a violation may cause harm
+for which monetary damages may be insufficient and that the Author may seek
+appropriate equitable relief where permitted by law.
+
+11. NO WARRANTY
+
+THE ORIGINAL WORK IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF
+ANY KIND, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE. TO THE MAXIMUM EXTENT
+PERMITTED BY LAW, THE AUTHOR DISCLAIMS ALL WARRANTIES, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT,
+ACCURACY, AVAILABILITY, SECURITY, AND ERROR-FREE OPERATION.
+
+12. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR OTHER
+DAMAGES ARISING OUT OF OR RELATED TO THE ORIGINAL WORK, THIS LICENSE, OR ANY
+USE, INABILITY TO USE, OR DISTRIBUTION OF THE ORIGINAL WORK.
+
+13. SEVERABILITY
+
+If any provision of this License is held unenforceable or invalid, that
+provision shall be enforced to the maximum extent permitted, and the remaining
+provisions shall remain in full force and effect.
+
+14. ENTIRE LICENSE
+
+This License is the entire agreement concerning the permissions granted for the
+Original Work unless the Author provides a separate written agreement signed or
+expressly approved by the Author. No statement, repository setting, fork
+setting, comment, issue, pull request, or third-party notice may expand the
+permissions granted by this License.
+
+15. PERMISSION REQUESTS
+
+For permission to modify, use, execute, deploy, commercialize, create a
+derivative work from, or distribute anything other than a complete unmodified
+Verbatim Copy, contact the Author through the Official Repository:
+
+https://github.com/voidfd
+
+END OF TERMS AND CONDITIONS
