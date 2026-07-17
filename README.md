@@ -8,17 +8,6 @@
 - `key-gen.py` — the program.
 - `install-key-gen.sh` — installer/uninstaller for the `key-gen` terminal command.
 
-## Customize the banner
-
-Open `key-gen.py` and edit these values near the beginning:
-
-```python
-ASCII_ART = r"""
-Your ASCII art here
-""".strip("\n")
-ASCII_SIGNATURE = "@your_handle"
-```
-
 The art and signature are automatically centered at the top of the loading screen and interactive screens.
 
 ## Install on Linux
