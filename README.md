@@ -3,6 +3,10 @@
 
 `key-gen` is an interactive, dependency-free Python 3 password and memorable-key generator. It uses Python's `secrets` module rather than `random` and provides conventional passwords with lengths from **8–32**, security levels **1–25**, and batches of **1–75** results.
 
+## Sample
+
+![Key-Gen Repository Sample](record.gif)
+
 ## Files
 
 - `key-gen.py` — the program.
